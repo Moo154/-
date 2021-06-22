@@ -1,1 +1,28 @@
-
+<head>
+  <title>Dmitri Ivanovich Mendeleev</title>
+</head>
+<link href = "https://fonts.googleapis.com/css2? family = Work + Sans & display = swap"
+rel='stylesheet' type='text/css'>
+<main id="main">
+  <header id="title"><h1>D. I. Mendeleev</h1></header>
+  <div id="img-div">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/DIMendeleevCab.jpg" id="img">
+<hr>
+<h3><i>"Everything is given only to labor"</i></h3>
+    <ul>
+      <hr>&nbsp
+      <li>Mendeleev was born in the village , near Tobolsk in Siberia</li>
+      <li>He was the youngest of 17 siblings</li>
+      <li>At the age of 13, after the passing of his father and the destruction of his mother's factory by fire, Mendeleev attended the Gymnasium in Tobolsk.</li>
+      <li>The mother and son continued to Saint Petersburg to the father's alma mater. The now poor Mendeleev family relocated to Saint Petersburg, where he entered the Main Pedagogical Institute in 1850. After graduation, he contracted tuberculosis</li>
+      <li>Between 1859 and 1861, he worked on the capillarity of liquids and the workings of the spectroscope in Heidelberg. Later in 1861, he published a textbook named Organic Chemistry. This won him the Demidov Prize of the Petersburg Academy of Sciences.</li>
+      <li>After becoming a teacher in 1867, Mendeleev wrote the definitive textbook of his time: Principles of Chemistry (two volumes, 1868–1870).</li>
+      <li>Mendeleev developed his extended version of the periodic table. On 6 March 1869, he made a formal presentation to the Russian Chemical Society, titled The Dependence between the Properties of the Atomic Weights of the Elements, which described elements according to both atomic weight (now called relative atomic mass) and valence.</li>
+      <li>Mendeleev also investigated the composition of petroleum, and helped to found the first oil refinery in Russia. He recognized the importance of petroleum as a feedstock for petrochemicals. He is credited with a remark that burning petroleum as a fuel "would be akin to firing up a kitchen stove with bank notes".</li>
+      <li>He invented pyrocollodion, a kind of smokeless powder based on nitrocellulose. This work had been commissioned by the Russian Navy, which however did not adopt its use. In 1892 Mendeleev organized its manufacture.</li>
+      <li>Mendeleev studied petroleum origin and concluded hydrocarbons are abiogenic and form deep within the earth – see Abiogenic petroleum origin. He wrote: "The capital fact to note is that petroleum was born in the depths of the earth, and it is only there that we must seek its origin."</li>
+      <li>dies at the age of 72.</li>
+      </ul>
+  </div>
+</main>
+<footer><h3>If you have time, you should read more about this incredible human being on his <a href="https://en.wikipedia.org/wiki/Dmitri_Mendeleev">Wikipedia entry</a>.</h3></footer>
